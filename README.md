@@ -1,5 +1,7 @@
 # ijstartkanon
-
+<div class='buttoncss' style='text-align: center;'>
+<a href='https://ij.setupcanon-ijstart.com/webmanual/'><img alt='ij.start.canon, ij.start.canon setup, ij start printer setup' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN7UKxgKm34snxNetvB3y05BBSJfWtctH8s63OJBdkWScnbHZ7mqNUT22Tr0nSoU-rVluY-dlfkYhtPgo9JvwrZWBchlqjSVEhYJHy0QCqWlaeScyUbbRKKUE3U46AKCPD1oZnURpSTDwPCegmT-m4YGnlzImtDvMSa_Dr0bpFQah1N-q9yfsLYs3AOA/s320/get%20started%20button.png'/></a>
+</div>
 ij.start.canon to learn the installation procedure. To set up your printer properly, you must have an updated browser and the required space to download the latest Canon printers and software. Be it your wireless connection requirement or wired, you can get every little information from ij.start.canon. Now, let’s begin with the setup procedure for your Canon printer.
 
 How to Download and Install Canon Printer Driver?
